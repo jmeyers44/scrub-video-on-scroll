@@ -1,9 +1,9 @@
-/*width will set the maximum scroll boundry for the clip*/
+/*height will set the maximum scroll boundry for the clip*/
 #set-height {
   display: block;
-  height: 1000px;
-  width: 3000px;
+  height: 1500px;
 }
+
 #v0 {
   position: fixed;
   top: 0;
@@ -13,3 +13,4 @@
 p font-family helvetica {
   font-size: 24px;
 }
+
